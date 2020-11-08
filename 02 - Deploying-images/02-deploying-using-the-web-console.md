@@ -8,7 +8,7 @@ In the _Image name from external registry_ field enter:
 
 Press tab or click outside of the text field. This should trigger a query validate the image.
 
-![Image Search](../../assets/introduction/deploying-images-44/02-image-search.png)
+![Image Search](../assets/introduction/deploying-images-44/02-image-search.png)
 
 From the name of the image, the _Application Name_ and deployment _Name_ fields will be automatically populated.
 
@@ -22,6 +22,6 @@ At the bottom of this page you will see that the checkbox for creating a route t
 
 When you are ready, at the bottom of the page click on _Create_. This will return you to the _Topology_ view, but this time you will see a representation of the deployment, rather than the options for deploying an application.
 
-![Topology View](../../assets/introduction/deploying-images-44/02-topology-view.png)
+![Topology View](../assets/introduction/deploying-images-44/02-topology-view.png)
 
 You may see the color of the ring in the visualization change from white, to light blue and then blue. This represents the phases of deployment as the container for the application starts up.
